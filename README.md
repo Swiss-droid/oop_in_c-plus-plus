@@ -1,1 +1,1 @@
-OOP projects in C++
+OOP projects in C++.
